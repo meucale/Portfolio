@@ -1,0 +1,42 @@
+body {
+  background-color: #121214;
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  color: #F8FAFC;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h2 {
+  color: #94A3B8;
+  font-weight: 400;
+  text-align: center;
+  margin-top: 30px;
+}
+
+p {
+  color: #F8FAFC;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.about {
+  color: #78716C;
+  font-weight: 300;
+  text-align: center;
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #1E293B;
+  color: #F8FAFC;
+  text-align: center;
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
