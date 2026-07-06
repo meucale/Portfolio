@@ -24,11 +24,11 @@ p {
   margin-top: 10px;
 }
 
-.about {
+.main-content {
   color: #78716C;
   font-weight: 300;
-  text-align: center;
-  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
 }
 
 footer {
